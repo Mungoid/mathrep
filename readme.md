@@ -1,0 +1,1 @@
+docs/WritingMathManual.pdf -> https://web.cs.ucdavis.edu/~amenta/w10/writingman.pdf
